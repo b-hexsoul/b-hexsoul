@@ -39,7 +39,7 @@
 ### Contact Me
 <p> I'd love to talk more about open roles at your company. Seeking fulltime developer role in Seattle, WA or Remote.</p>
 <div align="center">
-  <a href="linkedin.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/b-hexsoul" target="_blank"><img src="https://img.shields.io/badge/blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 </div>
 <!--
 **b-hexsoul/b-hexsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
