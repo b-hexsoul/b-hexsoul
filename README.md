@@ -2,7 +2,10 @@
 
 <a href="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu"><img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 650px; max-width: 100%; height: 150px" title="Click to enlarge picture" />
 
-
+# My Technical Skills
+<p style="align: center">
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white  
+</p>
 <!--
 **b-hexsoul/b-hexsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
