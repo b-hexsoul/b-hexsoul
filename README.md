@@ -27,16 +27,16 @@
   
 ![Brandons's github](https://github-readme-stats.vercel.app/api?username=b-hexsoul&show_icons=true&hide_border=true&theme=dracula)
   
-### What keeps me busy 
+### What keeps me busy 😄
 
   - Currently a fulltime registered nurse in the neonatal ICU. Also, in my free time, I am a contract software developer for a pre-MVP React Native App: 
-  <a href="github link">See more</a>
+    - <a href="github link">See more</a>
   
   - Brushing up on my React skills and Algorithms and Data Structures.
   
   - Exercise: Running, Biking, Swimming, Weightlifting
   
-### Contact Me
+### Contact Me 📫 
 <p> I'd love to talk more about open roles at your company. Seeking fulltime developer role in Seattle, WA or Remote.</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/bhexsel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
