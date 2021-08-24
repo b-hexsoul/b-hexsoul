@@ -26,7 +26,9 @@
 </div>
 
 <div align="center">
+  
 ![Brandons's github](https://github-readme-stats.vercel.app/api?username=b-hexsoul&show_icons=true&hide_border=true&theme=dracula)
+
 </div>
 
 ### What keeps me busy 😄
