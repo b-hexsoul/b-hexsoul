@@ -1,8 +1,8 @@
 ### Hi there 👋
 
- <p align='center'>
+
 ![image](https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu)
-</p>
+
 
 
 <!--
