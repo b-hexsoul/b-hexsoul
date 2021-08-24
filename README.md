@@ -28,9 +28,10 @@
 ![Brandons's github](https://github-readme-stats.vercel.app/api?username=b-hexsoul&show_icons=true&hide_border=true&theme=dracula)
   
 ### Contact Me
+<p> I'd love to talk more about open roles at your company. Seeking fulltime developer role in Seattle, WA or Remote.</p>
 <div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-Brandon%20Hexsel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhexsel/)](https://www.linkedin.com/in/bhexsel/) 
-[![Gmail Badge](https://img.shields.io/badge/brandon.hexsel@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brandon.hexsel@gmail.com)](mailto:brandon.hexsel@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-Brandon%20Hexsel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhexsel/)(https://www.linkedin.com/in/bhexsel/) 
+![Gmail Badge](https://img.shields.io/badge/brandon.hexsel@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brandon.hexsel@gmail.com)(mailto:brandon.hexsel@gmail.com)
 </div>
 <!--
 **b-hexsoul/b-hexsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
