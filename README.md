@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  <p align='center'>
-<img width='85%' src='https://drive.google.com/file/d/1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu/view' alt='engagement photoshoot' />
+![image](https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu)
 </p>
 
 
