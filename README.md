@@ -31,12 +31,16 @@
 
 ### What keeps me busy 😄
 <div>
-  - Currently a fulltime registered nurse in the neonatal ICU. Also, in my free time, I am a contract software developer for a pre-MVP React Native App: 
+  
+  <p>Currently a fulltime registered nurse in the neonatal ICU. Also, in my free time, I am a contract software developer for a pre-MVP React Native App: </p>
     - <a href="github link">Picket App Preview</a>
   
-  - Brushing up on my React skills and Algorithms and Data Structures.
+  <p>Brushing up on my React skills and Algorithms and Data Structures</p>
   
-  - Exercise: Running, Biking, Swimming, Weightlifting
+  <p>Exercise: Running, Biking, Swimming, Weightlifting </p>
+  
+  <p>Other: Hanging with my wife and friends. Meditation. Reading (currently Musashi). Netflix!</p>
+  
 </div>
   
 ### Contact Me 📫 
