@@ -4,7 +4,7 @@
 
 # My Technical Skills
 <p style="align: center">
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white  
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />  
 </p>
 <!--
 **b-hexsoul/b-hexsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
