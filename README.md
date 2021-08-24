@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Brandon. Full-stack Software Engineer.
+## Hi there 👋 I'm Brandon. Full-stack Software Engineer. 
 
-<a href="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu"><img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 650px; max-width: 100%; height: 150px" title="Click to enlarge picture" />
+<img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 650px; max-width: 100%; height: 150px" title="Click to enlarge picture" />
 
 ## Technical Skills
 <div align='center'>
@@ -24,9 +24,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
-  
+
+<div align="center">
 ![Brandons's github](https://github-readme-stats.vercel.app/api?username=b-hexsoul&show_icons=true&hide_border=true&theme=dracula)
-  
+</div>
+
 ### What keeps me busy 😄
 <div>
   - Currently a fulltime registered nurse in the neonatal ICU. Also, in my free time, I am a contract software developer for a pre-MVP React Native App: 
