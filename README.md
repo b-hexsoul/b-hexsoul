@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  <p align='center'>
-<img width='85%' src='https://drive.google.com/file/d/1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu/view?usp=sharing' alt='engagement photoshoot' />
+<img width='85%' src='https://drive.google.com/file/d/1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu/view' alt='engagement photoshoot' />
 </p>
 
 
