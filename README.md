@@ -35,7 +35,7 @@
 <div>
   
   <p>Currently a fulltime registered nurse in the neonatal ICU. Also, in my free time, I am a contract software developer for a pre-MVP React Native App: </p>
-    - <a href="github link">Picket App Preview</a>
+    - <a href="https://github.com/b-hexsoul/picket_preview/blob/main/README.md">Picket App Preview</a>
   
   <p>Brushing up on my React skills and Algorithms and Data Structures</p>
   
