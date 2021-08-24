@@ -3,7 +3,7 @@
 <a href="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu"><img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 650px; max-width: 100%; height: 150px" title="Click to enlarge picture" />
 
 ## Technical Skills
-<p style="align: center">
+<div align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -23,15 +23,24 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</p>
+</div>
   
 ![Brandons's github](https://github-readme-stats.vercel.app/api?username=b-hexsoul&show_icons=true&hide_border=true&theme=dracula)
+  
+### What keeps me busy 
+
+  - Currently a fulltime registered nurse in the neonatal ICU. Also, in my free time, I am a contract software developer for a pre-MVP React Native App: 
+  <a href="github link">See more</a>
+  
+  - Brushing up on my React skills and Algorithms and Data Structures.
+  
+  - Exercise: Running, Biking, Swimming, Weightlifting
   
 ### Contact Me
 <p> I'd love to talk more about open roles at your company. Seeking fulltime developer role in Seattle, WA or Remote.</p>
 <div align="center">
 ![Linkedin Badge](https://img.shields.io/badge/-Brandon%20Hexsel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhexsel/)(https://www.linkedin.com/in/bhexsel/) 
-![Gmail Badge](https://img.shields.io/badge/brandon.hexsel@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brandon.hexsel@gmail.com)(mailto:brandon.hexsel@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/Brandon%20Hexsel-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brandon.hexsel@gmail.com)
 </div>
 <!--
 **b-hexsoul/b-hexsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
