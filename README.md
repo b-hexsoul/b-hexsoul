@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ <p align='center'>
+<img width='85%' src='https://drive.google.com/file/d/1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu/view?usp=sharing' alt='engagement photoshoot' />
+</p>
+
+
 <!--
 **b-hexsoul/b-hexsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
