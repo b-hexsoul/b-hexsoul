@@ -1,7 +1,10 @@
 ## Hi there 👋 I'm Brandon. Full-stack Software Engineer. 
+<div align='center'>
 
-<img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 650px; max-width: 100%; height: 150px" title="Click to enlarge picture" />
+<img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 650px; max-width: 100%; height: 100px" />
 
+</div>
+  
 ## Technical Skills
 <div align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
