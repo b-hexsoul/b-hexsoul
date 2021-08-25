@@ -34,8 +34,7 @@
 ### What keeps me busy 😄
 <div>
   
-  <p>Currently a fulltime registered nurse in the neonatal ICU. Also, in my free time, I am a contract software developer for a pre-MVP React Native App: </p>
-    - <a href="https://github.com/b-hexsoul/picket_preview/blob/main/README.md">Picket App Preview</a>
+  <p>Currently a contract software developer for a pre-MVP React Native App: <span><a href="https://github.com/b-hexsoul/picket_preview/blob/main/README.md">Picket App Preview</a></span> . Also, I work night shift as a registered nurse in the Neonatal ICU. Would love to devote all my energy to becoming a better software engineer!! </p>
   
   <p>Brushing up on my React skills and Algorithms and Data Structures</p>
   
