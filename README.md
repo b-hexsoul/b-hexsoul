@@ -50,6 +50,7 @@
 ### Contact Me 📫 
 <p> I'd love to talk more about open roles at your company. Seeking fulltime developer role in Seattle, WA or Remote.</p>
 <div align="center">
+  <a href="https://drive.google.com/file/d/15vhtL7V_olH-Bt-SpO3Ixh2QNTBYZxUX/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/green?style=for-the-badge&logo=MicrosoftWord" /></a>
   <a href="https://www.linkedin.com/in/bhexsel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:brandon.hexsel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
