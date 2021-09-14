@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Brandon. Full-stack Software Engineer. 
-<div align='center'>
+<div>
 
 <img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 650px; max-width: 100%; height: 100px" />
 
