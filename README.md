@@ -1,8 +1,7 @@
-## Hi there 👋 I'm Brandon. Full-stack Software Engineer. 
-<div align='center'
+## Hi there 👋 I'm Brandon. Full-stack Software Engineer.
 
-<img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 100%; height:100px" />
-
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 100%" />
 </div>
   
 ## Technical Skills
