@@ -33,7 +33,7 @@
 
 </div>
 
-### About me
+### About me 🙋‍♂️
 <div>
   <p>Full stack software engineer with a diverse professional background. Previous experience as a finance analyst working in teams and across business units to help drive business goals. Current registered nurse using communication skills to develop trust and rapport with a focus on patient-centered care.</p>
   <p>Dedicated to learning new things. Enjoys solving problems. Desires a collaborative, inclusive team with a focus on making an impact. </p>
@@ -44,9 +44,9 @@
   
   <p>Currently a contract software developer for a pre-MVP React Native App: <span><a href="https://github.com/b-hexsoul/picket_preview/blob/main/README.md">Picket App Preview</a></span> . Also, I work night shift as a registered nurse in the Neonatal ICU. Would love to devote all my energy to becoming a better software engineer!! </p>
   
-  <p>Brushing up on my React skills and Algorithms and Data Structures</p>
+  <p>Brushing up on my React skills and 💻 Algorithms and Data Structures</p>
   
-  <p>Exercise: Running, Biking, Swimming, Weightlifting </p>
+  <p>Exercise: 🏃Running, 🚴🏽‍Biking, 🏊Swimming, 🏋Weightlifting </p>
   
   <p>Other: Hanging with my wife and friends. Meditation. Reading (currently Musashi). Netflix!</p>
   
