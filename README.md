@@ -33,6 +33,12 @@
 
 </div>
 
+### About me
+<div>
+  <p>Full stack software engineer with a diverse professional background. Previous experience as a finance analyst working in teams and across business units to help drive business goals. Current registered nurse using communication skills to develop trust and rapport with a focus on patient-centered care.</p>
+  <p>Dedicated to learning new things. Enjoys solving problems. Desires a collaborative, inclusive team with a focus on making an impact. </p>
+</div>
+
 ### What keeps me busy 😄
 <div>
   
