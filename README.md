@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Brandon. Full-stack Software Engineer.
+## Hi there 👋 I'm Brandon. Full-stack Software Engineer @Archbright.
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 100%" />
