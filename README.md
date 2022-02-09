@@ -42,18 +42,18 @@
 ### What keeps me busy 😄
 <div>
   
-  <p>Currently a contract software developer for a pre-MVP React Native App: <span><a href="https://github.com/b-hexsoul/picket_preview/blob/main/README.md">Picket App Preview</a></span> . Also, I work night shift as a registered nurse in the Neonatal ICU. Would love to devote all my energy to becoming a better software engineer!! </p>
+  <p>Currently a software engineer @Archbright.</p>
   
   <p>Brushing up on my React skills and 💻 Algorithms and Data Structures</p>
   
-  <p>Exercise: 🏃Running, 🚴🏽‍Biking, 🏊Swimming, 🏋Weightlifting </p>
+  <p>🏃Running, 🚴🏽‍Biking, 🏊Swimming, 🏋Weightlifting </p>
   
-  <p>Other: Hanging with my wife and friends. Meditation. Reading (currently Musashi). Netflix!</p>
+  <p>Spending time with my wife and friends. Meditation. Reading (currently Musashi)</p>
   
 </div>
   
 ### Contact Me 📫 
-<p> I'd love to talk more about open roles at your company. Seeking fulltime developer role in Seattle, WA or Remote.</p>
+<p> I'd love to talk more about open roles at your company.</p>
 <div align="center">
   <p>Hold down Cmd (Mac) or Ctrl (PC) and click the links below</p>
 </div>
