@@ -36,8 +36,8 @@
 
 ### About me 🙋‍♂️
 <div>
-  <p>Full stack software engineer with a diverse professional background. Previous experience as a finance analyst working cross-functionally in teams and across business units to help drive business goals. Experience managing multiple projects with deadlines. Current registered nurse using communication skills to develop trust and work through conflict with colleagues and familes</p>
-  <p>Dedicated to learning new things. Enjoys solving problems. Desires a collaborative, inclusive team with a focus on making an impact. </p>
+  <p>Full stack software engineer with a diverse professional background. Previous experience as a finance analyst working cross-functionally in teams and across business units to help drive business goals. Experience managing multiple projects with deadlines. Previously a registered nurse using communication skills to develop trust and work through conflict with colleagues and familes. I am now building things @ Archbright</p>
+  <p>Dedicated to learning new things. Enjoys solving problems. Desires a collaborative, inclusive team with a focus on making an impact. Interested in learning how to scale applications, TypeScript, design patterns.</p>
 </div>
 
 ### What keeps me busy 😄
@@ -47,7 +47,7 @@
   
   <p>Brushing up on my React skills and 💻 Algorithms and Data Structures</p>
   
-  <p>🏃Running, 🚴🏽‍Biking, 🏊Swimming, 🏋Weightlifting </p>
+  <p>🏃Running, 🚴🏽‍Biking, 🏊Swimming, 🏋Weightlifting, Eating good food </p>
   
   <p>Spending time with my wife and friends. Meditation. Reading (currently Musashi)</p>
   
