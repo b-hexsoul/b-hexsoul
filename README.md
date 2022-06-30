@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Brandon. Full-stack Software Engineer @Archbright.
+## Hi there 👋 I'm Brandon. Software Engineer @Archbright.
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 100%" />
@@ -45,7 +45,7 @@
   
   <p>Currently a software engineer @Archbright.</p>
   
-  <p>Brushing up on my React skills and 💻 Algorithms and Data Structures</p>
+  <p>Brushing up on my Python skills and 💻 Algorithms and Data Structures</p>
   
   <p>🏃Running, 🚴🏽‍Biking, 🏊Swimming, 🏋Weightlifting, Eating good food </p>
   
