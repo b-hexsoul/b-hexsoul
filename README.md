@@ -45,11 +45,11 @@
   
   <p>Currently a software engineer @Archbright.</p>
   
-  <p>Brushing up on my Python skills and 💻 Algorithms and Data Structures</p>
+  <p>Brushing up on my 💻 Algorithms and Data Structures and learning Golang</p>
   
   <p>🏃Running, 🚴🏽‍Biking, 🏊Swimming, 🏋Weightlifting, Eating good food </p>
   
-  <p>Spending time with my wife and friends. Meditation. Reading (currently Musashi)</p>
+  <p>Spending time with my wife and friends.</p>
   
 </div>
   
