@@ -44,9 +44,9 @@
   
   <p>Currently a software engineer @Archbright.</p>
   
-  <p>Brushing up on my 💻 Algorithms and Data Structures and learning Golang</p>
+  <p>Brushing up on my 💻 Algorithms and Data Structures with Python</p>
   
-  <p>Jiu Jitsu</p>
+  <p>Practicing Jiu-Jitsu</p>
   
   <p>Spending time with my wife, my baby girl and friends </p>
   
@@ -58,7 +58,7 @@
   <p>Hold down Cmd (Mac) or Ctrl (PC) and click the links below</p>
 </div>
 <div align="center">
-  <a href="https://drive.google.com/file/d/15vhtL7V_olH-Bt-SpO3Ixh2QNTBYZxUX/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-blueviolet?style=for-the-badge&logo=Pagekit" /></a>
+  <!-- <a href="https://drive.google.com/file/d/15vhtL7V_olH-Bt-SpO3Ixh2QNTBYZxUX/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-blueviolet?style=for-the-badge&logo=Pagekit" /></a> -->
   <a href="https://www.linkedin.com/in/bhexsel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:brandon.hexsel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
