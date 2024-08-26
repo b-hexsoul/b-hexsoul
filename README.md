@@ -1,5 +1,4 @@
-## Hi there 👋 I'm Brandon. Software Engineer @ Archbright.
-
+## Hi there 👋 I'm Brandon
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1go6BrHGWHrCv5QrrnDqLWRxc0uDKc0Iu" style="width: 100%" />
 </div>
