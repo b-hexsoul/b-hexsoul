@@ -35,13 +35,11 @@
 
 ### About me 🙋‍♂️
 <div>
-  <p>Full stack software engineer with a diverse professional background. Previous experience as a finance analyst working cross-functionally in teams and across business units to help drive business goals. Experience managing multiple projects with deadlines. Previously a registered nurse using communication skills to develop trust and work through conflict with colleagues and familes. I am now building things @ Archbright</p>
+  <p>Full stack software engineer with a diverse professional background. Previous experience as a finance analyst working cross-functionally in teams and across business units to help drive business goals. Experience managing multiple projects with deadlines. Previously a registered nurse using communication skills to develop trust and work through conflict with colleagues and familes.
 </div>
 
 ### What keeps me busy 😄
 <div>
-  
-  <p>Currently a software engineer @Archbright.</p>
   
   <p>Brushing up on my 💻 Algorithms and Data Structures with Python</p>
   
