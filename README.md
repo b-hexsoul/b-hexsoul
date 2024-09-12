@@ -41,7 +41,7 @@
 ### What keeps me busy 😄
 <div>
   
-  <p>Brushing up on my 💻 Algorithms and Data Structures with Python</p>
+  <p>Brushing up on my 💻 Algorithms and Data Structures</p>
   
   <p>Practicing Jiu-Jitsu</p>
   
